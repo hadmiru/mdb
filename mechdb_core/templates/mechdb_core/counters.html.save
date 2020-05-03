@@ -1,0 +1,32 @@
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > <!-- 
+/Yandex.Metrika counter -->
+    (function (d, w, c) { <!-- Global site tag (gtag.js) - Google Analytics 
+--> <script async 
+src="https://www.googletagmanager.com/gtag/js?id=UA-120372027-1"></script> 
+<script>
+        (w[c] = w[c] || []).push(function() { window.dataLayer = 
+window.dataLayer || [];
+            try { function gtag(){dataLayer.push(arguments);}
+                w.yaCounter49137145 = new Ya.Metrika2({ gtag('js', new 
+Date());
+                    id:49137145,
+                    clickmap:true, gtag('config', 'UA-120372027-1'); 
+</script> <!-- Global site tag (gtag.js) - Google Analytics -->
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script> <noscript><div><img src="https://mc.yandex.ru/watch/49137145" 
+style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
